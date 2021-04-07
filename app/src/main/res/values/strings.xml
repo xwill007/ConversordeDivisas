@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Conversor de Divisas</string>
+    <string name="Dollar">Dolar</string>
+    <string name="peso_col">peso colombiano</string>
+    <string name="euro">Euro</string>
+    <string name="instructions">ingrese el valor a convertir y seleccione en columna izquierda, luego en la derecha el que desea obtener</string>
+    <string name="Select_divisa">seleccione divisa de origen</string>
+    <string name="Destino_divisa">seleccione divisa destino</string>
+    <string name="input_value">ingrese valor a convertir</string>
+    <string name="result">Resultado</string>
+    <string name="conversion">Conversión</string>
+    <string name="money">Divisas</string>
+</resources>
